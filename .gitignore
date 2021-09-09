@@ -1,0 +1,17 @@
+*.o
+*.so
+*.a
+*.odt
+*.zip
+*.ods
+*.xlsm
+*.obj
+*.exe
+*.out
+*.hex
+*.dat
+*.class
+*.sm
+*.app
+*.img
+
